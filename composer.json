@@ -1,0 +1,11 @@
+{
+    "name": "agangarde/democomposer",
+    "description": "Welcome to composer",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+	"autoload": {
+		"psr-4": {"agangarde555\\Democomposer\\": "src/"}
+	},
+    "require": {}
+}
